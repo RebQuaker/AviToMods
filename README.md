@@ -20,8 +20,8 @@ O funcionamento dessa solução é super simples:
 Na pasta "input", você irá inserir os arquivos .avi já encodados com o codec do Mobiclip que foi feito no passo anterior com o VirtualDubMod.
 Caso o áudio esteja em .wav separado, deve ser inserido com o MESMO NOME na pasta input, exemplo:
 
-802.avi
-802.wav
+```802.avi```
+```802.wav```
 
 Feito isso, basta clicar rodar o bat "converter.bat" e deixá-lo trabalhar. Ao final, seus arquivos .mods aparecerão na pasta "output".
 
